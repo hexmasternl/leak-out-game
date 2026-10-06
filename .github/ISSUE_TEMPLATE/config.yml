@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🔎 Search existing issues
+    url: https://github.com/hexmasternl/leak-out-game/issues?q=is%3Aissue
+    about: Someone may already have reported your bug or suggested your idea. Give it a 👍 instead of opening a duplicate.

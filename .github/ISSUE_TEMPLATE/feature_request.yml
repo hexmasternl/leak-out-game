@@ -1,0 +1,64 @@
+name: 💡 Feature request
+description: Suggest a new pipe, mechanic, level pack, achievement or any other idea for Leak Out.
+title: "[Idea]: "
+labels: ["enhancement", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Got an idea that would make Leak Out even better? We'd love to hear it! 💧
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: What kind of idea is it?
+      options:
+        - New pipe section or board element
+        - New game mechanic or game mode
+        - Levels or level packs
+        - Achievements
+        - Scoring or stars
+        - Sound, music or vibration
+        - Look and feel
+        - Settings or accessibility
+        - Something else
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's the problem or wish behind it?
+      description: What would you like to do that you can't do now, or what bothers you today?
+      placeholder: On the big boards I lose track of where the water will go next...
+    validations:
+      required: true
+
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: Describe what you'd like to see. Be as concrete as you like.
+      placeholder: A faint arrow showing the direction the water will take out of the last filled pipe.
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives you've thought of
+      description: Other ways to solve the same problem, if any.
+
+  - type: textarea
+    id: media
+    attributes:
+      label: Sketches, mock-ups or examples
+      description: A drawing, a screenshot or a game that does something similar. Drag files into this box to attach them.
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before you submit
+      options:
+        - label: I searched the existing issues and this idea hasn't been suggested yet.
+          required: true

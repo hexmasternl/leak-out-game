@@ -1,0 +1,122 @@
+name: 🐞 Bug report
+description: Something in Leak Out is broken, looks wrong or doesn't behave the way it should.
+title: "[Bug]: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping us plug the leaks! 🔧
+        The more detail you give, the faster we can find and fix the problem.
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe the bug in a few sentences.
+      placeholder: The water leaked out of a cross section even though it entered from the left...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
+      placeholder: The water should have passed straight through the horizontal channel.
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: How can we make it happen ourselves?
+      placeholder: |
+        1. Open level 12
+        2. Place a cross next to the start
+        3. Wait for the water to reach it
+        4. See the leak
+    validations:
+      required: true
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Where in the game?
+      options:
+        - Gameplay (placing pipes, water flow, leaks)
+        - Scoring or stars
+        - A specific level
+        - Level library / progress
+        - Achievements or Google Play Games
+        - Sound, music or vibration
+        - Settings
+        - Menus, layout or text
+        - Crash or freeze
+        - Something else
+    validations:
+      required: true
+
+  - type: input
+    id: level
+    attributes:
+      label: Level number
+      description: If the bug happens on a specific level, which one?
+      placeholder: e.g. 42
+
+  - type: dropdown
+    id: frequency
+    attributes:
+      label: How often does it happen?
+      options:
+        - Every time
+        - Sometimes
+        - It happened once
+    validations:
+      required: true
+
+  - type: input
+    id: app-version
+    attributes:
+      label: Game version
+      description: You can find it in Settings → About.
+      placeholder: e.g. 1.4.0
+    validations:
+      required: true
+
+  - type: input
+    id: device
+    attributes:
+      label: Device
+      description: Phone or tablet make and model.
+      placeholder: e.g. Google Pixel 8, Samsung Galaxy Tab S9
+    validations:
+      required: true
+
+  - type: input
+    id: android-version
+    attributes:
+      label: Android version
+      placeholder: e.g. Android 15
+    validations:
+      required: true
+
+  - type: textarea
+    id: media
+    attributes:
+      label: Screenshots or a video
+      description: A picture says more than a thousand pipes. Drag files into this box to attach them.
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?
+      description: Were you signed in to Google Play Games? Did it start after an update? Anything that might help.
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before you submit
+      options:
+        - label: I searched the existing issues and this bug hasn't been reported yet.
+          required: true
