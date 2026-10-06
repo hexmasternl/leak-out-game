@@ -60,6 +60,20 @@ Route the water into the finish to win. Use every piece you placed, chain crosse
 
 ---
 
+## 🧪 Become a tester
+
+Leak Out is in testing on Google Play, and you can play it **today**. Two steps:
+
+1. **Join the Google Group** [**leak-out**](https://groups.google.com/g/leak-out). Membership is what gives you access to the test.
+2. **Opt in to testing** at [**play.google.com/apps/testing/nl.hexmaster.leakout**](https://play.google.com/apps/testing/nl.hexmaster.leakout), using the same Google account you joined the group with. Then download the game from Google Play.
+
+> [!NOTE]
+> It can take **up to 20 minutes** after joining before the game can be downloaded. If Google Play says the app isn't available yet, grab a coffee and try again a little later. ☕
+
+As a tester you get every new build first. Found a problem, or got an idea? [Tell us here](#-found-a-leak-in-the-game-itself).
+
+---
+
 ## 🔧 Know your pipes
 
 <p align="center">
@@ -98,20 +112,6 @@ Placed the wrong piece? You can swap out any pipe the water hasn't reached yet, 
 </p>
 
 Some are earned by playing well. Some are earned by failing *spectacularly*. A few are hidden. Can you find them all?
-
----
-
-## 🧪 Become a tester
-
-Leak Out is in testing on Google Play, and you can play it **today**. Two steps:
-
-1. **Join the Google Group** [**leak-out**](https://groups.google.com/g/leak-out). Membership is what gives you access to the test.
-2. **Opt in to testing** at [**play.google.com/apps/testing/nl.hexmaster.leakout**](https://play.google.com/apps/testing/nl.hexmaster.leakout), using the same Google account you joined the group with. Then download the game from Google Play.
-
-> [!NOTE]
-> It can take **up to 20 minutes** after joining before the game can be downloaded. If Google Play says the app isn't available yet, grab a coffee and try again a little later. ☕
-
-As a tester you get every new build first. Found a problem, or got an idea? [Tell us here](#-found-a-leak-in-the-game-itself).
 
 ---
 
