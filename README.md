@@ -12,12 +12,12 @@
 
 **A fast, juicy pipe-building puzzle game for Android.**
 
-<a href="https://play.google.com/store/apps/details?id=nl.hexmaster.leakout"><img alt="Coming to Google Play" src="https://img.shields.io/badge/Google_Play-Coming_soon-414141?style=for-the-badge&logo=googleplay&logoColor=white"></a>
+<a href="#-become-a-tester"><img alt="Google Play: join the beta" src="https://img.shields.io/badge/Google_Play-Join_the_beta-414141?style=for-the-badge&logo=googleplay&logoColor=white"></a>
 <img alt="Android 8.0+" src="https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 <img alt="96 levels" src="https://img.shields.io/badge/Levels-96-0288D1?style=for-the-badge">
 <img alt="40 achievements" src="https://img.shields.io/badge/Achievements-40-FBC02D?style=for-the-badge">
 
-[**Report a bug**](../../issues/new?template=bug_report.yml) · [**Request a feature**](../../issues/new?template=feature_request.yml) · [**Browse issues**](../../issues)
+[**Become a tester**](#-become-a-tester) · [**Report a bug**](../../issues/new?template=bug_report.yml) · [**Request a feature**](../../issues/new?template=feature_request.yml) · [**Browse issues**](../../issues)
 
 </div>
 
@@ -98,6 +98,20 @@ Placed the wrong piece? You can swap out any pipe the water hasn't reached yet, 
 </p>
 
 Some are earned by playing well. Some are earned by failing *spectacularly*. A few are hidden. Can you find them all?
+
+---
+
+## 🧪 Become a tester
+
+Leak Out is in testing on Google Play, and you can play it **today**. Two steps:
+
+1. **Join the Google Group** [**leak-out**](https://groups.google.com/g/leak-out). Membership is what gives you access to the test.
+2. **Opt in to testing** at [**play.google.com/apps/testing/nl.hexmaster.leakout**](https://play.google.com/apps/testing/nl.hexmaster.leakout), using the same Google account you joined the group with. Then download the game from Google Play.
+
+> [!NOTE]
+> It can take **up to 20 minutes** after joining before the game can be downloaded. If Google Play says the app isn't available yet, grab a coffee and try again a little later. ☕
+
+As a tester you get every new build first. Found a problem, or got an idea? [Tell us here](#-found-a-leak-in-the-game-itself).
 
 ---
 
